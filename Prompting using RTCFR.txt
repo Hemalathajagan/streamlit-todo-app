@@ -1,0 +1,17 @@
+Role — Establishes the identity and foundation level of a Software Developer 1, emphasizing growth mindset and willingness to learn from senior developers.
+
+Task — Outlines seven core responsibilities including coding, testing, code reviews, collaboration, documentation, debugging, and deployment support.
+
+Context — Provides the operational framework including development environment, typical technical stack, coding standards, and growth trajectory within the organization.
+
+Few Shots — Includes four realistic scenarios showing how a Developer 1 should approach:
+
+Feature implementation with proper planning and testing
+
+Bug investigation with escalation protocols
+
+Peer code review with constructive feedback
+
+Asking for help effectively with preparation
+
+Report/Tone — Details communication expectations across different contexts (code comments, PR descriptions, Slack messages, technical discussions, documentation) with a practical table showing tone adjustments for each scenario.
